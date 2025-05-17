@@ -10,6 +10,8 @@ Recently, a deposit was made from the business to an unknown bank account. The f
 
 ### Event log
 
+![image](https://raw.githubusercontent.com/mmat62/Identity-and-access-management-user-activity-audit/refs/heads/main/Event%20log.png)
+
 - The event took place on 10/03/23.
 - The user is Legal/Administrator.
 - The IP address of the computer used to login is 152.207.255.255.
@@ -19,6 +21,8 @@ Event logs can often help identify the who, what, and why of a security incident
 ## Identify access control issue(s):
 
 ### Employee directory
+
+![image](https://raw.githubusercontent.com/mmat62/Identity-and-access-management-user-activity-audit/refs/heads/main/Employee%20Directory.png)
 
 - Robert Taylor, Jr. is  a contractor with admin access.
 - His contract ended in 2019, but his account accessed payroll systems in 2023.
